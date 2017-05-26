@@ -1,11 +1,9 @@
 # cmp2.local
-<ul>
-<li>Informatie:Examenopdracht CMP2 in samenwerking met Arno Van Den Bossche</li>
-<li>Bjorn Truye</li>
-<li>Opleidingsonderdeel:CMP-II</li>
-<li>Academiejaar: 2016-17</li>
-<li>Opleiding: Bachelor in de grafische en digitale media</li>
-<li>Afstudeerrichting: Multimediaproductie</li>
-<li>Keuzeoptie: proDUCE</li>
-<li>Opleidingsinstelling: Arteveldehogeschool</li>
-</ul>
+
+|:------------------- |:-----------------------------------|
+| Studenten           | Bjorn Truye & Arno Van Den Bossche |
+| Opleidingsonderdeel | Crossmedia Publishing 2            |
+| Afstudeerrichting   | Multimediaproductie (MMP)          |
+| Specialisatie       | proDUCE                            |
+| Academiejaar        | 2016-2017                          |
+| Onderwijsinstelling | Arteveldehogeschool                |
