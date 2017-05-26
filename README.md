@@ -1,2 +1,9 @@
 # cmp2.local
-Examenopdracht CMP2 in samenwerking met Arno Van Den Bossche
+|                     |                                    |
+|:------------------- |:-----------------------------------|
+| Studenten           | Bjorn Truye & Arno Van Den Bossche |
+| Opleidingsonderdeel | Crossmedia Publishing 2            |
+| Afstudeerrichting   | Multimediaproductie (MMP)          |
+| Specialisatie       | proDUCE                            |
+| Academiejaar        | 2016-2017                          |
+| Onderwijsinstelling | Arteveldehogeschool                |
