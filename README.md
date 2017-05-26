@@ -1,5 +1,5 @@
 # cmp2.local
-
+|                     |                                    |
 |:------------------- |:-----------------------------------|
 | Studenten           | Bjorn Truye & Arno Van Den Bossche |
 | Opleidingsonderdeel | Crossmedia Publishing 2            |
