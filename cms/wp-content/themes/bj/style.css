@@ -7,7 +7,12 @@ Author: ArnoVanDenBossche/BjornTruye
 Author URI: 
 Tags: Ben&Jerry, Belgium, Ijscreme
 */
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 
+@font-face {
+    font-family: "RaleWay";
+    src: url(fonts/.woff);
+}
 *{
 	margin: 0;
 	padding:0;
